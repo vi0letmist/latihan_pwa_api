@@ -1,0 +1,123 @@
+{
+  "mahasiswa" : [{
+  "id": 1,
+  "name": "Timothea Stoacley",
+  "gender": "Female"
+}, {
+  "id": 2,
+  "name": "Anson McBeth",
+  "gender": "Male"
+}, {
+  "id": 3,
+  "name": "Lionel Romaynes",
+  "gender": "Male"
+}, {
+  "id": 4,
+  "name": "Clerkclaude Kinforth",
+  "gender": "Male"
+}, {
+  "id": 5,
+  "name": "Josselyn Bartosiak",
+  "gender": "Female"
+}, {
+  "id": 6,
+  "name": "Dorian O' Mara",
+  "gender": "Female"
+}, {
+  "id": 7,
+  "name": "Brandy Mingasson",
+  "gender": "Female"
+}, {
+  "id": 8,
+  "name": "Anneliese Wayland",
+  "gender": "Female"
+}, {
+  "id": 9,
+  "name": "Elladine Watkiss",
+  "gender": "Female"
+}, {
+  "id": 10,
+  "name": "Carlin Dobing",
+  "gender": "Male"
+}, {
+  "id": 11,
+  "name": "Elsinore Hadlington",
+  "gender": "Female"
+}, {
+  "id": 12,
+  "name": "Pembroke Baughn",
+  "gender": "Male"
+}, {
+  "id": 13,
+  "name": "Dulciana Argontt",
+  "gender": "Female"
+}, {
+  "id": 14,
+  "name": "Tessa Whyborn",
+  "gender": "Female"
+}, {
+  "id": 15,
+  "name": "Annecorinne Morville",
+  "gender": "Female"
+}, {
+  "id": 16,
+  "name": "Anders Henstone",
+  "gender": "Male"
+}, {
+  "id": 17,
+  "name": "Gina Mathewson",
+  "gender": "Female"
+}, {
+  "id": 18,
+  "name": "Sibella McNess",
+  "gender": "Female"
+}, {
+  "id": 19,
+  "name": "Arman Parkyns",
+  "gender": "Male"
+}, {
+  "id": 20,
+  "name": "Yves Errol",
+  "gender": "Male"
+}, {
+  "id": 21,
+  "name": "Gayla Kean",
+  "gender": "Female"
+}, {
+  "id": 22,
+  "name": "Lesley Battrum",
+  "gender": "Female"
+}, {
+  "id": 23,
+  "name": "Georgie Grebbin",
+  "gender": "Female"
+}, {
+  "id": 24,
+  "name": "Terrance Allcroft",
+  "gender": "Male"
+}, {
+  "id": 25,
+  "name": "Maddi Lorrain",
+  "gender": "Female"
+}, {
+  "id": 26,
+  "name": "Beverie Bothe",
+  "gender": "Female"
+}, {
+  "id": 27,
+  "name": "Liane Helstrom",
+  "gender": "Female"
+}, {
+  "id": 28,
+  "name": "Beverlee Crosthwaite",
+  "gender": "Female"
+}, {
+  "id": 29,
+  "name": "Mirelle Kitto",
+  "gender": "Female"
+}, {
+  "id": 30,
+  "name": "Gilemette Wiffield",
+  "gender": "Female"
+}]
+}
